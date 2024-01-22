@@ -1,2 +1,2 @@
-run-button: bun run dev
+run-button: bun run dev --host --port 1337
 playground-view: terminal-editor-browser
