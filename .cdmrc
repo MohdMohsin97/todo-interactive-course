@@ -1,2 +1,2 @@
-tabs ['README.md']
+run-button: bun run dev
 playground-view: terminal-editor-browser
