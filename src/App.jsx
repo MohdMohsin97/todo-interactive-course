@@ -11,7 +11,6 @@ function App() {
 
       {/* Div Element with input element and Add button */}
 
-      {/* Unoreder list with todo text */}
     </div>
   );
 }
