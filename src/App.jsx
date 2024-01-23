@@ -33,7 +33,7 @@ export default function App() {
             className="flex justify-between items-center space-x-2 mb-4"
           >
             <p className="text-xl">{todo.text}</p>
-            {/* Add delete function which call deleteTopo on click take todo is as argument */}
+            {/* Add delete button which call deleteTopo on click take todo is as argument */}
           </li>
         ))}
       </ul>
