@@ -5,8 +5,6 @@ function App() {
 
   // Create a const newTodo using useState with empty string as initial value
 
-  // Create a function addTodo which add new object to todos with id as Date, text as newTodo and set newTodo to empty string
-
   return (
     <div className="container mx-auto p-4">
       {/* Title Todo App  */}
