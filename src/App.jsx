@@ -1,8 +1,20 @@
+import { useState } from "react";
+
 function App() {
+  // Create a const newTodo using useState with empty array as initial value
+
+  // Create a const newTodo using useState with empty string as initial value
+
+  // Create a function addTodo which add new object to todos with id as Date, text as newTodo and set newTodo to empty string
+
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello World!</h1>
-    </>
+    <div className="container mx-auto p-4">
+      {/* Title Todo App  */}
+
+      {/* Div Element with input element and Add button */}
+
+      {/* Unoreder list with todo text */}
+    </div>
   );
 }
 
